@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soru1", "Soru1\Soru1.csproj", "{C0440003-A2A3-4902-AA5C-E7DDEC4C196C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soru2", "Soru2\Soru2.csproj", "{A3CBA549-64CC-49F0-BFE5-A601A0F6A909}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0440003-A2A3-4902-AA5C-E7DDEC4C196C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0440003-A2A3-4902-AA5C-E7DDEC4C196C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0440003-A2A3-4902-AA5C-E7DDEC4C196C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0440003-A2A3-4902-AA5C-E7DDEC4C196C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3CBA549-64CC-49F0-BFE5-A601A0F6A909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3CBA549-64CC-49F0-BFE5-A601A0F6A909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3CBA549-64CC-49F0-BFE5-A601A0F6A909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3CBA549-64CC-49F0-BFE5-A601A0F6A909}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DA6A873-8EDB-4FE9-8512-369D0FF17C94}
+	EndGlobalSection
+EndGlobal
